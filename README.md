@@ -11,6 +11,6 @@ https://zhuanlan.zhihu.com/p/66562029
 # 度盘
 https://pan.baidu.com/s/123JEbAijYirGo-spJ9KI1g
 
-rtth 
+password：rtth 
 
 度盘有导出的试听版，但pdf并不保证是最新版。
