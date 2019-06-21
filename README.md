@@ -10,18 +10,30 @@ https://zhuanlan.zhihu.com/p/66562029
 
 # 曲目列表
 
-arma.pdf
+Karma.pdf
+
 Rachel (one page ver).pdf
+
 Rachel.pdf
+
 kanon.pdf
+
 never again.pdf
+
 reply.pdf
+
 夏の大三角 Db.pdf
+
 小さな旋律 previewver.pdf
+
 夏の大三角.pdf
+
 音に出来る事.pdf
+
 ヨスカノソラ メインテーマ -願い-.pdf
+
 なせ日は傾くのか.pdf
+
 降り続く雨の街て.pdf
 
 # 度盘
