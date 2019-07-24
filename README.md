@@ -22,8 +22,6 @@ never again.pdf
 
 reply.pdf
 
-夏の大三角 Db.pdf
-
 小さな旋律 previewver.pdf
 
 夏の大三角.pdf
