@@ -14,11 +14,12 @@ preview版本表示完成度介于“能用”和“完善”之间，即有一�
 
 ~~password：rtth~~
 
-度盘有导出的试听版~~，但pdf并不保证是最新版~~。
+度盘有导出的试听版~~但pdf并不保证是最新版~~。
 
 正在调试bypy，将会支持自动上传到：
 
 [新的位置](https://pan.baidu.com/s/1LEuUXNsldc7Uj4qYjRzq-A)
+
  提取码: **r9uq** 
 
 # 曲目列表
@@ -29,7 +30,7 @@ preview版本表示完成度介于“能用”和“完善”之间，即有一�
 
 + Rachel.pdf
 
-kanon.pdf
+   + kanon.pdf
 
 never again.pdf
 
