@@ -12,7 +12,7 @@ preview版本表示完成度介于“能用”和“完善”之间，即有一�
 # 度盘
 ~~[链接点此](https://pan.baidu.com/s/123JEbAijYirGo-spJ9KI1g)~~
 
-~~password：rtth ~~
+~~password：rtth~~
 
 度盘有导出的试听版~~，但pdf并不保证是最新版~~。
 
