@@ -20,32 +20,75 @@ preview版本表示完成度介于“能用”和“完善”之间，即有一�
 
 [新的位置](https://pan.baidu.com/s/1LEuUXNsldc7Uj4qYjRzq-A)
 
- 提取码: **r9uq** 
+提取码: **r9uq** 
 
-# 曲目列表
+# 乐谱列表
++ **[./](.)**
 
-+ Karma.pdf
+   + [=>Karma](./Karma.pdf)
 
-+ Rachel (one page ver).pdf
+   + [=>kanon](./kanon.pdf)
 
-+ Rachel.pdf
+   + [=>never again](./never%20again.pdf)
 
-   + kanon.pdf
+   + [=>rachel theme piano (one page version)](./rachel%20theme%20piano%20%28one%20page%20version%29.pdf)
 
-never again.pdf
+   + [=>rachel theme piano](./rachel%20theme%20piano.pdf)
 
-reply.pdf
+   + [=>reply](./reply.pdf)
 
-小さな旋律 previewver.pdf
+   + [=>銀世界 previewver](./%E9%8A%80%E4%B8%96%E7%95%8C%20previewver.pdf)
 
-夏の大三角.pdf
+   + [=>ヨスガノソラ メインテーマ -願い-](./%E3%83%A8%E3%82%B9%E3%82%AB%E3%82%99%E3%83%8E%E3%82%BD%E3%83%A9%20%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E%20-%E9%A1%98%E3%81%84-.pdf)
 
-音に出来る事.pdf
+   + [=>降り続く雨の街で](./%E9%99%8D%E3%82%8A%E7%B6%9A%E3%81%8F%E9%9B%A8%E3%81%AE%E8%A1%97%E3%81%A6%E3%82%99.pdf)
 
-ヨスカノソラ メインテーマ -願い-.pdf
++ **[./素晴らしき⽇々:](./素晴らしき⽇々)**
 
-なせ日は傾くのか.pdf
+   + [=>小さな旋律 previewver](./%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E2%BD%87%E3%80%85/%E5%B0%8F%E3%81%95%E3%81%AA%E6%97%8B%E5%BE%8B%20previewver.pdf)
 
-降り続く雨の街て.pdf
+   + [=>夏の大三角](./%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E2%BD%87%E3%80%85/%E5%A4%8F%E3%81%AE%E5%A4%A7%E4%B8%89%E8%A7%92.pdf)
 
+   + [=>音に出来る事](./%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E2%BD%87%E3%80%85/%E9%9F%B3%E3%81%AB%E5%87%BA%E6%9D%A5%E3%82%8B%E4%BA%8B.pdf)
+
+   + [=>なぜ日は傾くのか](./%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E2%BD%87%E3%80%85/%E3%81%AA%E3%81%9B%E3%82%99%E6%97%A5%E3%81%AF%E5%82%BE%E3%81%8F%E3%81%AE%E3%81%8B.pdf)
+
+# 试听列表
++ **[./](.)**
+
+   + =>Karma
+
+   + =>kanon
+
+   + =>never again
+
+   + =>rachel theme piano
+
+   + =>reply harp
+
+   + =>reply
+
+   + =>銀世界 previewver
+
+   + =>ヨスガノソラ メインテーマ -願い- harp
+
+   + =>ヨスガノソラ メインテーマ -願い-
+
+   + =>降り続く雨の街で harp
+
+   + =>降り続く雨の街で
+
++ **[./素晴らしき⽇々:](./%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E2%BD%87%E3%80%85)**
+
+   + =>夏の大三角 harp
+
+   + =>小さな旋律 previewver
+
+   + =>夏の大三角
+
+   + =>音に出来る事 harp
+
+   + =>音に出来る事
+
+   + =>なぜ日は傾くのか
 
