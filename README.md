@@ -9,6 +9,8 @@
 
 preview版本表示完成度介于“能用”和“完善”之间，即有一到两成缺音，但和弦进行完整（和弦不保证正确性）。
 
+考虑到单独文件下载容易失败，建议使用“git clone https://github.com/Eidosper/MusicScore”或者右上角“Clone or download”下载全体，亦可在百度盘下载。
+
 # 度盘
 ~~[链接点此](https://pan.baidu.com/s/123JEbAijYirGo-spJ9KI1g)~~
 
@@ -33,6 +35,8 @@ preview版本表示完成度介于“能用”和“完善”之间，即有一�
 
    + [=>never again](./never%20again.pdf)
 
+   + [=>Presence](./Presence.pdf)
+
    + [=>rachel theme piano](./rachel%20theme%20piano.pdf)
 
    + [=>Karma](./Karma.pdf)
@@ -53,6 +57,8 @@ preview版本表示完成度介于“能用”和“完善”之间，即有一�
 
    + [=>夏の大三角](./%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E2%BD%87%E3%80%85/%E5%A4%8F%E3%81%AE%E5%A4%A7%E4%B8%89%E8%A7%92.pdf)
 
+   + [=>邂逅](./%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E2%BD%87%E3%80%85/%E9%82%82%E9%80%85.pdf)
+
 # 试听列表
 + **[./](.)**
 
@@ -67,6 +73,8 @@ preview版本表示完成度介于“能用”和“完善”之间，即有一�
    + =>降り続く雨の街で harp
 
    + =>降り続く雨の街で
+
+   + =>presence
 
    + =>kanon
 
@@ -87,6 +95,10 @@ preview版本表示完成度介于“能用”和“完善”之间，即有一�
    + =>なぜ日は傾くのか
 
    + =>小さな旋律 previewver
+
+   + =>邂逅 日本筝
+
+   + =>邂逅
 
    + =>夏の大三角 harp
 
